@@ -133,7 +133,7 @@ int main(){
 	int arr[MAX], bub[MAX], ins[MAX], sel[MAX];
 	
 	printf("\n============================================\n");
-	printf("=========== Array Control System ===========\n");
+	printf("========== Array Management System =========\n");
 	printf("============================================\n");
 	printf("Current Time: ");CurrentTime();
 	printf("Press any key to start...\n");
