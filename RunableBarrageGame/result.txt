@@ -1,0 +1,36 @@
+===== RUNABLE BARRAGE GAME RESULT =====
+Time: 2025-11-18 10:36:02
+Score: 5
+Remaining Lives: -1
+Time Survived: 9 seconds
+----------------------------------------
+===== RUNABLE BARRAGE GAME RESULT =====
+Time: 2025-11-18 10:43:37
+Score: 340
+Remaining Lives: -1
+Time Survived: 46 seconds
+----------------------------------------
+===== RUNABLE BARRAGE GAME RESULT =====
+Time: 2025-11-18 10:45:21
+Score: 767
+Remaining Lives: -1
+Time Survived: 66 seconds
+----------------------------------------
+===== RUNABLE BARRAGE GAME RESULT =====
+Time: 2025-11-20 13:57:46
+Score: 1421
+Remaining Lives: 1
+Time Survived: 100 seconds
+----------------------------------------
+===== RUNABLE BARRAGE GAME RESULT =====
+Time: 2025-11-20 13:59:34
+Score: 480
+Remaining Lives: -1
+Time Survived: 42 seconds
+----------------------------------------
+===== RUNABLE BARRAGE GAME RESULT =====
+Time: 2025-11-24 11:46:16
+Score: 280
+Remaining Lives: -1
+Time Survived: 39 seconds
+----------------------------------------
